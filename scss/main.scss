@@ -60,6 +60,9 @@ img {
     color: #fff;
     width: 140px;
     height: 43px;
+    &:hover {
+        box-shadow: 0 0 13px rgba($color: $c1, $alpha: 1);
+    }
 }
 
 

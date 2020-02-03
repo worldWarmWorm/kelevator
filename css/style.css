@@ -57,6 +57,9 @@ img {
   color: #fff;
   width: 140px;
   height: 43px; }
+  .btn:hover {
+    -webkit-box-shadow: 0 0 13px #519933;
+            box-shadow: 0 0 13px #519933; }
 
 .header-box {
   height: 74px;

@@ -9,7 +9,7 @@
 body {
   font-weight: 400;
   color: #744E43;
-  background: url(/img/body-fon.jpg) no-repeat 50% 50%;
+  background: url(../img/body-fon.jpg) no-repeat 50% 50%;
   background-size: cover;
   width: 100%;
   min-height: 100vh;
@@ -109,7 +109,7 @@ img {
       content: '';
       width: 24px;
       height: 24px;
-      background: url(/img/phone.svg) no-repeat 50% 50%; }
+      background: url(../img/phone.svg) no-repeat 50% 50%; }
     .header-box .call-us::before {
       border: 9px solid transparent;
       border-bottom: 9px solid #2B740D;
@@ -285,9 +285,9 @@ img {
       width: 18px;
       height: 18px; }
   .contacts .call-us::after {
-    background: url(/img/phone.svg) no-repeat 50% 50%; }
+    background: url(../img/phone.svg) no-repeat 50% 50%; }
   .contacts .mail-us::after {
-    background: url(/img/mail.svg) no-repeat 50% 50%; }
+    background: url(../img/mail.svg) no-repeat 50% 50%; }
 
 .footer-bottom {
   padding: 10px 24px;

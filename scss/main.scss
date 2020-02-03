@@ -12,7 +12,7 @@ $c2: #F2B403;
 body {
     font-weight: 400;
     color: #744E43;
-    background: url(/img/body-fon.jpg) no-repeat 50% 50%;
+    background: url(../img/body-fon.jpg) no-repeat 50% 50%;
     background-size: cover;
     width: 100%;
     min-height: 100vh;
@@ -116,7 +116,7 @@ img {
             content: '';
             width: 24px;
             height: 24px;
-            background: url(/img/phone.svg) no-repeat 50% 50%;
+            background: url(../img/phone.svg) no-repeat 50% 50%;
         }
 
         &::before {
@@ -315,12 +315,12 @@ img {
 
 
     .call-us::after {
-        background: url(/img/phone.svg) no-repeat 50% 50%;
+        background: url(../img/phone.svg) no-repeat 50% 50%;
 
     }
 
     .mail-us::after {
-        background: url(/img/mail.svg) no-repeat 50% 50%;
+        background: url(../img/mail.svg) no-repeat 50% 50%;
     }
 }
 
